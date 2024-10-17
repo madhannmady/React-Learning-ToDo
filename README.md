@@ -1,3 +1,12 @@
+# Simple TO-DO List Application
+
+A simple To-Do List application with the aim of learning React, with the following functionalities,
+    `Add new list`
+    `Strike out the finised task`
+    `Delete the finished task`
+    `Search and sort among many list`
+Credits to 🎉Balachandra: [You Tube](https://youtu.be/Uv7cKlZFXU8?si=PaXj0TmI3Ppw_tcP).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
